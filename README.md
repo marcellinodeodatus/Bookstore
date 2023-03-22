@@ -1,6 +1,9 @@
  3/22/2020
+ ---------
 Name: Deodatus Marcellino
- -------------------------- Bookstore ------------------
+-------------------------
+Bookstore
+---------
 This program is a simulation of a simple bookstore written in Java. Written for an assignment in COP3330 class. 
 There are three Java classes in this project: Book.java, Bookstore.java, and Main.java.
 
